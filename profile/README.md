@@ -5,12 +5,6 @@
   
 </div>
 
-<div align="center">
-
-![TechQuanta Logo](https://github.com/user-attachments/assets/9c278056-27da-4bf9-8c5e-9f871708199e)
-
-</div>
-
 # ⚡ TechQuanta | Innovate. Collaborate. Elevate.
 
 Welcome to **TechQuanta**, a vibrant and inclusive community for **developers, designers, and researchers** united by a passion for technology, innovation, and collaboration. Whether you're exploring UI/UX, diving into AI/ML, solving algorithmic puzzles, or building full-stack applications, **TechQuanta is your space to grow.**
