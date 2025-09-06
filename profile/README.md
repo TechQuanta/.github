@@ -39,7 +39,7 @@ Learn practical data storytelling and analytics for impactful decisions.
 
 ⭐ **Star & Fork** our repositories to support and follow our work.  
 💬 **Join GitHub Discussions** to share ideas and questions with the community.  
-🔧 **Contribute** by following our [CONTRIBUTING.md](./CONTRIBUTION.md) to submit your first PR.
+🔧 **Contribute** by following our [CONTRIBUTING.md](https://techquanta.github.io/community-wall) to submit your first PR.
 
 
 
