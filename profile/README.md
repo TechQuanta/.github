@@ -13,10 +13,8 @@ Welcome to **TechQuanta**, a dynamic and inclusive community for **developers, d
 
 ---
 <div align="right"> 
-<div align="right">
   <br>
-<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="120" height="250">
-</div>
+<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="90" height="250">
   
   ![](https://komarev.com/ghpvc/?username=TechQuanta&color=blueviolet)
   
