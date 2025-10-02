@@ -1,8 +1,12 @@
+<a href="https://techquanta.tech">
+  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/techquanta?theme=macros&size=2&shape=rect" alt="avatar-api">
+  
+</a>
+
 # ⚡ TechQuanta | Innovate. Collaborate. Elevate.
 
 Welcome to **TechQuanta**, a dynamic and inclusive community for **developers, designers, and researchers** driven by curiosity, innovation, and meaningful collaboration. Whether you're exploring UI/UX, building with AI/ML, solving algorithmic challenges, or crafting full-stack projects, **TechQuanta is your launchpad to grow and make an impact**.
 
-🌐 Visit us: [www.techquanta.tech](https://www.techquanta.tech)
 
 ---
 <div align="center">
@@ -11,15 +15,19 @@ Welcome to **TechQuanta**, a dynamic and inclusive community for **developers, d
 
 </div>
 
+<div align=center>
+
+
 ---
 <div align="right"> 
   <br>
-<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="90" height="250">
+<img src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" alt="opensource 2025" width="100" height="150">
   
   ![](https://komarev.com/ghpvc/?username=TechQuanta&color=blueviolet)
   
 </div>
 
+</div>
   
 ## 🌟 What We’re About
 
