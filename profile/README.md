@@ -1,14 +1,7 @@
-<a href="https://techquanta.tech">
-  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/techquanta?theme=macros&size=2&shape=rect" alt="avatar-api">
-  
-</a>
-
-# ⚡ TechQuanta | Innovate. Collaborate. Elevate.
-
 Welcome to **TechQuanta**, a dynamic and inclusive community for **developers, designers, and researchers** driven by curiosity, innovation, and meaningful collaboration. Whether you're exploring UI/UX, building with AI/ML, solving algorithmic challenges, or crafting full-stack projects, **TechQuanta is your launchpad to grow and make an impact**.
 
 
----
+
 <div align="center">
 
 ![TechQuanta Community Banner](https://github.com/user-attachments/assets/2d24fe8f-e7bc-438d-b2b2-9da22ec665f9)
